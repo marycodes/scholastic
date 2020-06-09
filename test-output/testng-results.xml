@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26992" started-at="2020-06-09T02:34:09 EDT" finished-at="2020-06-09T02:34:36 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26992" started-at="2020-06-09T02:34:09 EDT" finished-at="2020-06-09T02:34:36 EDT">
+      <class name="project.scholastic.HomePage">
+        <test-method status="PASS" signature="initalise()[pri:0, instance:project.scholastic.HomePage@3234e239]" name="initalise" is-config="true" duration-ms="11567" started-at="2020-06-09T02:34:09 EDT" finished-at="2020-06-09T02:34:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalise -->
+        <test-method status="PASS" signature="Home()[pri:0, instance:project.scholastic.HomePage@3234e239]" name="Home" duration-ms="11182" started-at="2020-06-09T02:34:21 EDT" finished-at="2020-06-09T02:34:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:project.scholastic.HomePage@3234e239]" name="TearDown" is-config="true" duration-ms="4145" started-at="2020-06-09T02:34:32 EDT" finished-at="2020-06-09T02:34:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- project.scholastic.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
